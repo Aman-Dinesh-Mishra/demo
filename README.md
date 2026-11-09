@@ -1,12 +1,21 @@
-# React + Vite
+# NariSuraksha
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A location-aware women's safety application built with React, leveraging geolocation technology to support emergency alerts, real-time location sharing, and community-based safety assistance.
 
-Currently, two official plugins are available:
+## Core Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Instant Emergency Alerts:** One-tap emergency alerts with location sharing.
+- **Live Location Tracking:** Real-time location updates for trusted contacts.
+- **Safety Network:** Connect with nearby safety volunteers.
+- **Smart Risk Assessment:** AI-powered assessment of potential safety risks.
+- **Geolocation:** Browser-based location sensing to support location-aware safety features.
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Geolocation API
+- JavaScript / TypeScript
+
+## Objective
+
+To provide a technology-driven safety platform that helps users access emergency assistance, share their location, and stay connected with trusted contacts.
